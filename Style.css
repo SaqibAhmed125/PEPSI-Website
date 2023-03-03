@@ -1,0 +1,28 @@
+.bg-Color {
+    background-color: blue;
+    /* color: white; */
+}
+
+.txt-Color {
+    color: #ffffff;
+    border: solid 5px;
+    border-radius: 20px;
+    font-size: x-large;
+    /* font-size: 1em; */
+    font-weight: bold;
+
+}
+.txt-Color:hover {
+    background-color: white;
+    color: blue;
+}
+
+.row-1 {
+    background-color: black;
+    /* width: 50%; */
+    
+}
+
+.col-1 img {
+    width: 500px;
+}
